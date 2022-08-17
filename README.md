@@ -14,5 +14,7 @@
   <img align="center" alt="Ric-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ric-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Ric-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Ric-pic" height="150" style="border-radius:100px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <p><img align="right" alt="Ric-pic" height="150" src="https://github.com/RichardCLopes/RichardCLopes/blob/main/goma-cat.gif" width="200" height="157" /></p>
 </div>
+
+  <p><img align="right" alt="Ric-pic" height="150" src="https://github.com/RichardCLopes/RichardCLopes/blob/main/goma-cat.gif" width="200" height="157" /></p>
