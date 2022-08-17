@@ -12,10 +12,11 @@
 
 ## About Me 🚀<br>
 🧑 I'm 26 Years Old.<br>
-🏡 I'm From Sumaré-SP, Brazil.<br>
+🏡 I'm from Sumaré-SP, Brazil.<br>
 📚 Learning React and Dart</br>
-👨‍💻 I’m an Data Scientist enthusiast</br>
+👨‍💻 I’m a Data Scientist Enthusiast</br>
 🎓 Computer Engineering at Pontifical Catholic University of Campinas, 9/10.</br><br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ric-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
