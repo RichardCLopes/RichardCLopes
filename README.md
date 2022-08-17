@@ -1,5 +1,15 @@
-### Hi 👋, I'm Richard do Carmo Lopes
-##
+<h1 align="center">Hi 👋, I'm Richard do Carmo Lopes</h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1500&center=true&width=435&lines=Be+Welcome+!+%F0%9F%98%80;Computer+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Nice+To+Meet+You+!+%F0%9F%A4%9D" alt="Typing SVG"></a>
+</p>
+
+## About Me 🚀<br>
+🧑 I'm 26 Years Old.<br>
+🏡 I'm From Sumaré-SP, Brazil.<br>
+📚 Learning React and Dart</br>
+👨‍💻 I’m an Data Scientist enthusiast</br>
+🎓 Computer Engineering at Pontifical Catholic University of Campinas, 9/10.</br><br>
 
 <div align="center">
   <a href="https://github.com/RichardCLopes">
