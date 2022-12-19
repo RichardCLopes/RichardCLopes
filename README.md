@@ -11,7 +11,7 @@
 </div>
 
 ## About Me 🚀<br>
-🧑 I'm 26 Years Old.<br>
+🧑 I'm 27 Years Old.<br>
 🏡 I'm from Sumaré-SP, Brazil.<br>
 📚 Learning React and Dart</br>
 👨‍💻 I’m a Data Scientist Enthusiast</br>
