@@ -13,7 +13,7 @@
 ## About Me 🚀<br>
 🧑 I'm 27 Years Old.<br>
 🏡 I'm from Sumaré-SP, Brazil.<br>
-📚 Learning React and Dart</br>
+📚 Learning Dax and Dart</br>
 👨‍💻 I’m a Data Scientist Enthusiast</br>
 🎓 Computer Engineering at Pontifical Catholic University of Campinas, 9/10.</br><br>
 
