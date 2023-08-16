@@ -40,6 +40,4 @@
   <a href="https://www.instagram.com/richardclopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://t.me/RichardCLopes" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
-  
-   ![Snake animation](https://github.com/RichardCLopes/RichardCLopes/blob/output/github-contribution-grid-snake.svg)
-    ![Snake gif](https://github.com/RichardCLopes/RichardCLopes/blob/output/github-contribution-grid-snake.svg)
+
