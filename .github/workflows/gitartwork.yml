@@ -8,10 +8,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
+       - uses: RichardClopes/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: RichardCLopes
             # Text on contribution graph 
             text: RICHARD
-       - uses: jasineri/simple-push-action@v1
+       - uses: RichardClopes/simple-push-action@v1
