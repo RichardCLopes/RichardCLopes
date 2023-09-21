@@ -15,7 +15,7 @@
 🏡 I'm from Sumaré-SP, Brazil.<br>
 📚 Learning Dax and Dart</br>
 👨‍💻 I’m a Data Scientist Enthusiast</br>
-🎓 Computer Engineering at Pontifical Catholic University of Campinas, 9/10.</br><br>
+🎓 Computer Engineering at Pontifical Catholic University of Campinas, 10/10.</br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
