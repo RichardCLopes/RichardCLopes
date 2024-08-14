@@ -11,10 +11,10 @@
 </div>
 
 ## About Me 🚀<br>
-🧑 I'm 27 Years Old.<br>
+🧑 I'm 28 Years Old.<br>
 🏡 I'm from Sumaré-SP, Brazil.<br>
-📚 Learning Dax and Dart</br>
-👨‍💻 I’m a Data Scientist Enthusiast</br>
+📚 Learning PySpark / Databricks</br>
+👨‍💻 I’m a Data Engineer Enthusiast</br>
 🎓 Computer Engineering at Pontifical Catholic University of Campinas, 10/10.</br><br>
 
 <div style="display: inline_block"><br>
