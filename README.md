@@ -20,13 +20,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-Azure" height="45" width="60" src="https://raw.githubusercontent.com/RichardCLopes/RichardCLopes/main/azure.svg">
   <img align="center" alt="Ric-Databricks" height="45" width="60" src="https://raw.githubusercontent.com/RichardCLopes/RichardCLopes/main/databricks.svg">
-  <img align="center" alt="Ric-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Ric-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ric-Snowflake" height="45" width="60" src="https://raw.githubusercontent.com/RichardCLopes/RichardCLopes/main/snowflake.svg">
+  <img align="center" alt="Ric-SQL" height="45" width="60" src="https://raw.githubusercontent.com/RichardCLopes/RichardCLopes/main/dbsql.svg">
   <img align="center" alt="Ric-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ric-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ric-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ric-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ric-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
-  <img align="center" alt="Ric-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ric-Flutter" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <a>
     <img align="right"  src="goma-cat.gif"/>
   </a>
