@@ -18,7 +18,8 @@
 🎓 Computer Engineering at Pontifical Catholic University of Campinas, 10/10.</br><br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ric-Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Ric-Azure" height="45" width="60" src="https://raw.githubusercontent.com/RichardCLopes/RichardCLopes/main/azure.svg">
+  <img align="center" alt="Ric-Databricks" height="45" width="60" src="https://raw.githubusercontent.com/RichardCLopes/RichardCLopes/main/databricks.svg">
   <img align="center" alt="Ric-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Ric-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ric-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
