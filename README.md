@@ -4,18 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1500&center=true&width=435&lines=Be+Welcome+!+%F0%9F%98%80;Computer+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Nice+To+Meet+You+!+%F0%9F%A4%9D" alt="Typing SVG"></a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/RichardCLopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardCLopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardCLopes&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 ## About Me 🚀<br>
-🧑 I'm 28 Years Old.<br>
-🏡 I'm from Sumaré-SP, Brazil.<br>
-📚 Learning PySpark / Databricks</br>
-👨‍💻 I’m a Data Engineer Enthusiast</br>
-🎓 Computer Engineering at Pontifical Catholic University of Campinas, 10/10.</br><br>
+🧑 30 Years Old.<br>
+🏡 Campinas-SP, Brazil.<br>
+📚 SQL | PySpark | Databricks | Azure</br>
+👨‍💻 Data Engineer at AB InBev</br>
+🎓 Computer Engineering at Pontifical Catholic University of Campinas.</br><br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ric-Azure" height="45" width="60" src="https://raw.githubusercontent.com/RichardCLopes/RichardCLopes/main/azure.svg">
